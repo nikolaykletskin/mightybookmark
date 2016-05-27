@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "Mighty Bookmark"
+  },
+  "extAuthor": {
+    "message": "Nikolay Kletskin"
+  },
+  "extDescription": {
+    "message": "Open all bookmarks in one click."
+  },
+  "options": {
+    "message": "Options"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "optionsSaved" : {
+    "message": "Changes have changed"
+  }
+}

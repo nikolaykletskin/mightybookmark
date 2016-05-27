@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "Mighty Bookmark"
+  },
+  "extAuthor": {
+    "message": "Николай Клёцкин"
+  },
+  "extDescription": {
+    "message": "Все закладки в один клик."
+  },
+  "options": {
+    "message": "Настройки"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "optionsSaved" : {
+    "message": "Изменения сохранены"
+  }
+}
