@@ -21,7 +21,7 @@
 
     function restoreOptions() {
         chrome.storage.sync.get('sites', function(items) {
-            document.getElementById('sites').value = items.sites;
+            document.getElementById('sites').value = items.sites || '';
         });
     }
 })();
