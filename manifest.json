@@ -1,7 +1,7 @@
 {
   "name": "__MSG_extName__",
   "author": "__MSG_extAuthor__",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "background": {
     "scripts": [
       "background.js"
